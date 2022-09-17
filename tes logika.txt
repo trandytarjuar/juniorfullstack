@@ -1,0 +1,31 @@
+1. buah apa saja yang dimiliki andi?
+
+   buah yang dimiliki andi salak,kurma,jeruk bali, manggis,apel
+
+2. andi memisahkan buah nya menjadi beberapa wadah berdasarkan tipe buah. berapa jumlah 
+   wadah yang dibutuhkan? dan ada buah apa saja di masing masing wadah ?
+
+   wadah yg di butuh kan 2 yaitu import dan local, setiap tipe buah memerlukan beberapa wadah 
+   untuk dipisahkan sesuai nama buah, 
+   wadah untuk tipe buah local di perlukan 3 wadah:
+   1. manggis
+   2. jeruk bali
+   3. salak
+   dan wadah tipe buah import memerlukan 2 buah:
+   1. kurma
+   2. apel
+
+3. berapa total stock buah yang ada di masing masing wadah ?
+untuk wadah 
+	1. manggis
+	   stock : 100
+	2. jeruk bali
+	   stock: 10
+	3. salak
+	   stock: 150
+	4. kurma
+	   stock: 40
+	5. apel
+	   stock:60
+4. apakah ada komentar terkait kasus di atas?
+   buah di pisahkan sesuai nama buah dan tipe buah
